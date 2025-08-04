@@ -75,7 +75,7 @@
 &lt;li>Home office setup allowance&lt;/li>
 &lt;/ul>
 &lt;h2 id="how-to-apply">How to Apply&lt;/h2>
-&lt;p>Please send your resume, portfolio, and a brief cover letter explaining why you&amp;rsquo;d be a great fit for our team. Include links to any relevant projects or open source contributions.&lt;/p></description></item><item><title>Content Management in Hugo: Best Practices</title><link>https://encinalabs.github.io/blog/content-management-hugo/</link><pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate><guid>https://encinalabs.github.io/blog/content-management-hugo/</guid><description>&lt;div class="bg-gray-50 p-6 rounded-lg mb-8">
+&lt;p>Please send your resume, portfolio, and a brief cover letter explaining why you&amp;rsquo;d be a great fit for our team. Include links to any relevant projects or open source contributions.&lt;/p></description></item><item><title>Content Management in Hugo: Best Practices</title><link>https://encinalabs.github.io/sample_blogs/content-management-hugo/</link><pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate><guid>https://encinalabs.github.io/sample_blogs/content-management-hugo/</guid><description>&lt;div class="bg-gray-50 p-6 rounded-lg mb-8">
  &lt;h2 class="text-xl font-semibold mb-4">Table of Contents&lt;/h2>
  &lt;nav id="TableOfContents">
  &lt;ul>
@@ -120,7 +120,7 @@
 &lt;p>Effective content management is crucial for maintaining a scalable Hugo site. This guide covers best practices for organizing and managing your content.&lt;/p>
 &lt;h2 id="content-organization">Content Organization&lt;/h2>
 &lt;h3 id="directory-structure">Directory Structure&lt;/h3>
-&lt;p>Create a logical content hierarchy:&lt;/p></description></item><item><title>Optimizing Hugo Performance: Speed Up Your Site</title><link>https://encinalabs.github.io/blog/optimizing-hugo-performance/</link><pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate><guid>https://encinalabs.github.io/blog/optimizing-hugo-performance/</guid><description>&lt;div class="bg-gray-50 p-6 rounded-lg mb-8">
+&lt;p>Create a logical content hierarchy:&lt;/p></description></item><item><title>Optimizing Hugo Performance: Speed Up Your Site</title><link>https://encinalabs.github.io/sample_blogs/optimizing-hugo-performance/</link><pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate><guid>https://encinalabs.github.io/sample_blogs/optimizing-hugo-performance/</guid><description>&lt;div class="bg-gray-50 p-6 rounded-lg mb-8">
  &lt;h2 class="text-xl font-semibold mb-4">Table of Contents&lt;/h2>
  &lt;nav id="TableOfContents">
  &lt;ul>
@@ -160,7 +160,7 @@
 &lt;p>Performance is crucial for user experience and SEO. In this guide, we&amp;rsquo;ll explore various techniques to optimize your Hugo site for maximum performance.&lt;/p>
 &lt;h2 id="asset-optimization">Asset Optimization&lt;/h2>
 &lt;h3 id="image-optimization">Image Optimization&lt;/h3>
-&lt;p>Images often contribute the most to page weight. Here&amp;rsquo;s how to optimize them:&lt;/p></description></item><item><title>Deploying Hugo Sites: A Complete Guide</title><link>https://encinalabs.github.io/blog/deploying-hugo-sites/</link><pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate><guid>https://encinalabs.github.io/blog/deploying-hugo-sites/</guid><description>&lt;div class="bg-gray-50 p-6 rounded-lg mb-8">
+&lt;p>Images often contribute the most to page weight. Here&amp;rsquo;s how to optimize them:&lt;/p></description></item><item><title>Deploying Hugo Sites: A Complete Guide</title><link>https://encinalabs.github.io/sample_blogs/deploying-hugo-sites/</link><pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate><guid>https://encinalabs.github.io/sample_blogs/deploying-hugo-sites/</guid><description>&lt;div class="bg-gray-50 p-6 rounded-lg mb-8">
  &lt;h2 class="text-xl font-semibold mb-4">Table of Contents&lt;/h2>
  &lt;nav id="TableOfContents">
  &lt;ul>
@@ -229,7 +229,7 @@
 &lt;/div>
 
 &lt;h3 id="2-vercel">2. Vercel&lt;/h3>
-&lt;p>Vercel provides excellent performance and analytics.&lt;/p></description></item><item><title>Customizing Your Hugo Theme: A Deep Dive</title><link>https://encinalabs.github.io/blog/customizing-your-hugo-theme/</link><pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate><guid>https://encinalabs.github.io/blog/customizing-your-hugo-theme/</guid><description>&lt;div class="bg-gray-50 p-6 rounded-lg mb-8">
+&lt;p>Vercel provides excellent performance and analytics.&lt;/p></description></item><item><title>Customizing Your Hugo Theme: A Deep Dive</title><link>https://encinalabs.github.io/sample_blogs/customizing-your-hugo-theme/</link><pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate><guid>https://encinalabs.github.io/sample_blogs/customizing-your-hugo-theme/</guid><description>&lt;div class="bg-gray-50 p-6 rounded-lg mb-8">
  &lt;h2 class="text-xl font-semibold mb-4">Table of Contents&lt;/h2>
  &lt;nav id="TableOfContents">
  &lt;ul>
@@ -261,7 +261,7 @@
 &lt;/div>
 
 &lt;h2 id="introduction">Introduction&lt;/h2>
-&lt;p>While Hugo comes with many beautiful themes, you&amp;rsquo;ll often want to customize them to match your specific needs. This guide will walk you through the process of customizing your Hugo theme effectively.&lt;/p></description></item><item><title>Getting Started with Hugo: A Beginner's Guide</title><link>https://encinalabs.github.io/blog/getting-started-with-hugo/</link><pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate><guid>https://encinalabs.github.io/blog/getting-started-with-hugo/</guid><description>&lt;div class="bg-gray-50 p-6 rounded-lg mb-8">
+&lt;p>While Hugo comes with many beautiful themes, you&amp;rsquo;ll often want to customize them to match your specific needs. This guide will walk you through the process of customizing your Hugo theme effectively.&lt;/p></description></item><item><title>Getting Started with Hugo: A Beginner's Guide</title><link>https://encinalabs.github.io/sample_blogs/getting-started-with-hugo/</link><pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate><guid>https://encinalabs.github.io/sample_blogs/getting-started-with-hugo/</guid><description>&lt;div class="bg-gray-50 p-6 rounded-lg mb-8">
  &lt;h2 class="text-xl font-semibold mb-4">Table of Contents&lt;/h2>
  &lt;nav id="TableOfContents">
  &lt;ul>
@@ -292,40 +292,13 @@
  &lt;div class="container mx-auto px-4">
  
  &lt;div class="text-center">
- &lt;h1 class="text-4xl md:text-5xl font-bold mb-6">Building the Future of SaaS&lt;/h1>
- &lt;p class="text-xl text-gray-600 mb-16">We're on a mission to revolutionize how businesses operate in the digital age&lt;/p>
+ &lt;h1 class="text-4xl md:text-5xl font-bold mb-6">Building the Future of Healthcare AI Systems&lt;/h1>
+ &lt;p class="text-xl text-gray-600 mb-16">We're on a mission to revolutionize how providers adopt the AI solutions.&lt;/p>
  &lt;div class="max-w-3xl mx-auto bg-white rounded-xl shadow-sm p-8">
  &lt;h2 class="text-3xl font-bold mb-4">Our Mission&lt;/h2>
  &lt;p class="text-xl text-gray-600">
- We're dedicated to empowering businesses with innovative SaaS solutions that drive growth and efficiency. Our platform combines cutting-edge technology with intuitive design to solve complex business challenges.
- &lt;/p>
- &lt;/div>
- &lt;/div>
-
- &lt;/div>
-&lt;/section>
-
-&lt;section class="py-20 bg-gray-50">
- &lt;div class="container mx-auto px-4">
- 
- &lt;div class="max-w-6xl mx-auto">
- &lt;h2 class="text-3xl font-bold text-center mb-12">Leadership Team&lt;/h2>
- &lt;div class="grid grid-cols-1 md:grid-cols-3 gap-8">
- &lt;div class="team-member text-center">
- &lt;div class="relative mb-4 rounded-lg overflow-hidden aspect-square">
- 
- &lt;img src="https://encinalabs.github.io/images/company/exec-1.svg" alt="Sarah Johnson" class="w-full h-full object-cover">
- 
- 
- &lt;a href="#" target="_blank" rel="noopener" class="absolute bottom-2 right-2 bg-white rounded-full p-2 shadow-md hover:shadow-lg transition-shadow">
- &lt;svg class="w-5 h-5 text-blue-600" fill="currentColor" viewBox="0 0 24 24">
- &lt;path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/>
- &lt;/svg>
- &lt;/a>
- 
- &lt;/div>
- &lt;h3 class="text-xl font-bold mb-1">Sarah Johnson&lt;/h3>
- &lt;p class="text-gray-600">Chief Executive Officer&lt;/p></description></item><item><title>Beautiful Design System</title><link>https://encinalabs.github.io/features/design-system/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://encinalabs.github.io/features/design-system/</guid><description>&lt;h2 id="comprehensive-design-system">Comprehensive Design System&lt;/h2>
+ We're dedicated to empowering healthcare systems with the state of the art AI solutions that drive growth and efficiency. Our platform combines cutting-edge technology and decades of combined industry experience to solve complex healthcare challenges.
+ &lt;/p></description></item><item><title>Beautiful Design System</title><link>https://encinalabs.github.io/features/design-system/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://encinalabs.github.io/features/design-system/</guid><description>&lt;h2 id="comprehensive-design-system">Comprehensive Design System&lt;/h2>
 &lt;p>Our theme includes a complete design system that makes it easy to create beautiful, consistent interfaces. Built on TailwindCSS, it provides the flexibility to customize every aspect of your design while maintaining a professional look.&lt;/p>
 &lt;h3 id="design-components">Design Components&lt;/h3>
 &lt;h4 id="core-elements">Core Elements&lt;/h4>
