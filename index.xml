@@ -344,7 +344,46 @@
 &lt;li>Adaptive layouts&lt;/li>
 &lt;li>Touch-friendly interactions&lt;/li>
 &lt;/ul>
-&lt;p>Our design system provides the perfect foundation for creating beautiful, accessible, and responsive websites that stand out from the crowd.&lt;/p></description></item><item><title>Developer Experience</title><link>https://encinalabs.github.io/features/developer-experience/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://encinalabs.github.io/features/developer-experience/</guid><description>&lt;h2 id="built-for-developers">Built for Developers&lt;/h2>
+&lt;p>Our design system provides the perfect foundation for creating beautiful, accessible, and responsive websites that stand out from the crowd.&lt;/p></description></item><item><title>Book a demo with us</title><link>https://encinalabs.github.io/bookdemo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://encinalabs.github.io/bookdemo/</guid><description>&lt;p>Fill out the form below and we’ll confirm your booking.&lt;/p>
+&lt;section class="bg-gradient-to-b from-blue-50 via-blue-50 to-white pt-20 pb-32">
+ &lt;div class="container mx-auto px-4">
+ 
+ &lt;div class="max-w-6xl mx-auto">
+ &lt;div class="grid grid-cols-1 gap-8 text-center">
+
+ &lt;section class="book-demo">
+
+ &lt;form id="demoForm" class="space-y-6 max-w-lg mx-auto text-left">
+ &lt;div>
+ &lt;label class="block text-sm font-medium text-gray-700">Name&lt;/label>
+ &lt;input type="text" name="name" required class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 sm:text-sm">
+ &lt;/div>
+ &lt;div>
+ &lt;label class="block text-sm font-medium text-gray-700">Email&lt;/label>
+ &lt;input type="email" name="email" required class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 sm:text-sm">
+ &lt;/div>
+ &lt;div>
+ &lt;label class="block text-sm font-medium text-gray-700">Company&lt;/label>
+ &lt;input type="text" name="company" required class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 sm:text-sm">
+ &lt;/div>
+ &lt;div>
+ &lt;label class="block text-sm font-medium text-gray-700">Preferred Date&lt;/label>
+ &lt;input type="date" name="date" required class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 sm:text-sm">
+ &lt;/div>
+ &lt;div>
+ &lt;label class="block text-sm font-medium text-gray-700">Message&lt;/label>
+ &lt;textarea name="message" class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 sm:text-sm">&lt;/textarea>
+ &lt;/div>
+ &lt;div class="text-center">
+ &lt;button
+ type="submit"
+ class="block w-full inline-flex justify-center rounded-md border border-transparent bg-blue-600 py-2 px-4 text-sm font-medium text-black shadow-sm hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 text-black"
+ >
+ Submit
+ &lt;/button>
+ &lt;/div>
+ &lt;/form>
+ &lt;p id="formStatus" style="display:none;">&lt;/p></description></item><item><title>Developer Experience</title><link>https://encinalabs.github.io/features/developer-experience/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://encinalabs.github.io/features/developer-experience/</guid><description>&lt;h2 id="built-for-developers">Built for Developers&lt;/h2>
 &lt;p>Our theme is designed with developers in mind, providing a clean, efficient workflow that makes building websites enjoyable and productive.&lt;/p>
 &lt;h3 id="development-features">Development Features&lt;/h3>
 &lt;h4 id="project-structure">Project Structure&lt;/h4>
