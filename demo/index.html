@@ -1,659 +1,79 @@
-<!DOCTYPE html>
-<html lang="en-us" class="h-full">
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-
-
-
-
-
-
-
-
-
-    <title>Book a demo with us | EncinaLabs</title>
-
-
-    <meta name="description" content="book a demo of our system">
-    <meta name="author" content="Pourya Shirazian">
-    <meta name="robots" content="index, follow">
-
-
-    <meta property="og:title" content="Book a demo with us | EncinaLabs">
-    <meta property="og:description" content="book a demo of our system">
-    <meta property="og:type" content="article">
-    <meta property="og:url" content="http://localhost:1313/demo/">
-    <meta property="og:site_name" content="EncinaLabs">
-
-
-
-
-
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Book a demo with us | EncinaLabs">
-    <meta name="twitter:description" content="book a demo of our system">
-
-
-
-
-
-
-    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
-
-
-    <link rel="canonical" href="http://localhost:1313/demo/">
-
-
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@600;700;800&display=swap" rel="stylesheet">
-
-
-
-
-
-    <link rel="stylesheet" href="/css/main.css">
-
-
-
-</head>
-<body class="min-h-screen flex flex-col">
-
-
-
-
-    <div class="fixed top-0 left-0 right-0 z-50">
-
-
-<div class="mobile-menu-wrapper">
-    <input type="checkbox" id="nav-toggle" class="nav-toggle">
-    <header class="fixed w-full top-0 z-50 bg-white/80 backdrop-blur-sm border-b border-gray-100">
-        <div class="container mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl">
-            <nav class="flex items-center justify-between h-20">
-
-                <a href="http://localhost:1313/" class="flex items-center space-x-4">
-
-                        <img src="/images/logo.png" alt="EncinaLabs" class="h-12">
-
-
-                        <span class="text-3xl font-semibold text-gray-800">EncinaLabs</span>
-
-                </a>
-
-
-                <div class="hidden md:flex items-center space-x-8">
-
-
-                        <a href="/blog" class="text-base text-gray-900 hover:text-primary-600 font-bold transition duration-200">Blog</a>
-
-
-
-                        <div class="relative group">
-                            <button class="flex items-center text-base text-gray-900 hover:text-primary-600 font-bold transition duration-200">
-                                Company
-                                <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
-                                </svg>
-                            </button>
-                            <div class="absolute left-0 mt-2 w-72 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 ease-in-out">
-                                <div class="py-6 bg-white border border-gray-100 shadow-xl rounded-lg">
-
-                                    <a href="/company/" class="block px-8 py-3 text-sm text-gray-700 hover:bg-gray-50">About Us</a>
-
-                                </div>
-                            </div>
-                        </div>
-
-
-                </div>
-
-
-
-                <div class="hidden md:flex items-center space-x-4">
-
-
-
-                </div>
-
-
-
-                <div class="md:hidden">
-                    <label for="nav-toggle" class="p-2 rounded-lg hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-primary-600 focus:ring-offset-2 transition-colors cursor-pointer">
-                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
-                        </svg>
-                    </label>
-                </div>
-            </nav>
-        </div>
-
-
-        <div class="nav-content md:hidden w-full fixed left-0 right-0 top-20 bg-white border-t border-gray-100 shadow-lg">
-            <div class="w-full px-6 py-4">
-
-
-                    <a href="/blog" class="block text-xl text-gray-900 hover:text-primary-600 font-bold transition duration-200 py-2">Blog</a>
-
-
-
-                    <div class="py-2">
-                        <div class="text-xl text-gray-900 font-bold mb-2">Company</div>
-                        <div class="pl-4">
-
-                            <a href="/company/" class="block text-gray-700 hover:text-primary-600 py-2">About Us</a>
-
-                        </div>
-                    </div>
-
-
-
-
-                <div class="pt-4 space-y-4">
-
-
-
-                </div>
-
-            </div>
-        </div>
-    </header>
-
+<!--
+Copyright (C) 2024 The Qt Company Ltd.
+SPDX-License-Identifier: LicenseRef-Qt-Commercial OR GPL-3.0-only
+-->
+
+<!doctype html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+    <!--Set visual viewport size for mobile devices to the device size,
+        witch results in a scale of 1 and a 1:1 mapping between CSS pixels
+        and Qt device independent pixels. -->
+    <meta name="viewport" content="width=device-width, height=device-height, user-scalable=0"/>
+
+    <title>scanarea</title>
     <style>
-        .mobile-menu-wrapper {
-            position: relative;
-        }
-        .nav-toggle {
-            display: none;
-        }
-        .nav-content {
-            display: none;
-        }
-        .nav-toggle:checked ~ header .nav-content {
-            display: block;
-        }
+      /* Make the html body cover the entire (visual) viewport with no scroll bars. */
+      html, body { padding: 0; margin: 0; overflow: hidden; height: 100% }
+      #screen { width: 100%; height: 100%; }
     </style>
-</div>
-
-    </div>
-
-
-    <div class="pt-20">
-
-<div class="container mx-auto px-4 py-12">
-
-    <div class="flex flex-col lg:flex-row gap-8 mb-12">
-
-        <article class="flex-1">
-            <header class="mb-8">
-
-
-                <h1 class="text-4xl font-bold mb-4">Book a demo with us</h1>
-
-                <div class="flex flex-col space-y-4">
-
-
-
-    <div class="flex items-center justify-between text-sm text-gray-500">
-
-
-        <div class="flex items-center space-x-6">
-            <div class="flex items-center">
-                <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"></path>
-                </svg>
-                <span>1 min read</span>
-            </div>
-
-            <div class="flex items-center">
-                <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path>
-                </svg>
-                <time datetime="0001-01-01">
-                    January 1, 0001
-                </time>
-            </div>
-        </div>
-    </div>
-
-
-
-</div>
-
-            </header>
-
-
-
-            <div class="prose prose-lg max-w-none">
-                <p>Fill out the form below and we’ll confirm your booking.</p>
-<section class="bg-gradient-to-b from-blue-50 via-blue-50 to-white pt-20 pb-32">
-    <div class="container mx-auto px-4">
-
-    <div class="max-w-6xl mx-auto">
-        <div class="grid grid-cols-1 gap-8 text-center">
-
-          <section class="book-demo">
-
-            <form id="demoForm" class="space-y-6 max-w-lg mx-auto text-left">
-              <div>
-                <label class="block text-sm font-medium text-gray-700">Name</label>
-                <input type="text" name="name" required class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 sm:text-sm">
-              </div>
-              <div>
-                <label class="block text-sm font-medium text-gray-700">Email</label>
-                <input type="email" name="email" required class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 sm:text-sm">
-              </div>
-              <div>
-                <label class="block text-sm font-medium text-gray-700">Preferred Date</label>
-                <input type="date" name="date" required class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 sm:text-sm">
-              </div>
-              <div>
-                <label class="block text-sm font-medium text-gray-700">Message</label>
-                <textarea name="message" class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 sm:text-sm"></textarea>
-              </div>
-              <div class="text-center">
-                <button
-                  type="submit"
-                  class="block w-full inline-flex justify-center rounded-md border border-transparent bg-blue-600 py-2 px-4 text-sm font-medium text-black shadow-sm hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 text-black"
-                >
-                  Submit
-                </button>
-              </div>
-            </form>
-          <p id="formStatus" style="display:none;"></p>
-
-          </section>
-
-        </div>
-    </div>
-
-    </div>
-</section>
-
-<script>
-document.getElementById("demoForm").addEventListener("submit", async function(e) {
-    e.preventDefault();
-    const formData = Object.fromEntries(new FormData(e.target).entries());
-    const url = "https://solitary-sound-4b74.pourya-shirazian.workers.dev/"
-
-    try {
-        const res = await fetch(url, {
-            method: "POST",
-            headers: { "Content-Type": "application/json" },
-            body: JSON.stringify(formData),
-            redirect: "follow"
-        });
-        if (res.ok) {
-            document.getElementById("formStatus").style.display = "block";
-            document.getElementById("formStatus").style.color = "green";
-            document.getElementById("formStatus").innerText = "✅ Booking sent successfully!";
-            e.target.reset();
-        } else {
-            throw new Error("Request failed");
-        }
-    } catch (err) {
-        document.getElementById("formStatus").style.display = "block";
-        document.getElementById("formStatus").style.color = "red";
-        document.getElementById("formStatus").innerText = "❌ Something went wrong. Please try again.";
-        console.log("used url = " + url)
-        console.error(err);
-    }
-});
-</script>
-            </div>
-        </article>
-
-
-        <aside class="lg:w-80 xl:w-96">
-            <div class="space-y-8">
-
-
-
-        <div class="bg-primary-50 p-6 rounded-lg">
-    <h3 class="text-lg font-bold text-gray-900 mb-2">Subscribe to Newsletter</h3>
-    <p class="text-sm text-gray-600 mb-4">Get the latest posts delivered right to your inbox</p>
-
-    <form action="https://formspree.io/f/your-form-id" method="POST" class="space-y-3">
-
-
-        <div>
-            <input
-                type="email"
-                name="email"
-                placeholder="Enter your email"
-                required
-                class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-primary-500"
-            >
-        </div>
-
-        <button
-            type="submit"
-            class="w-full px-4 py-2 bg-primary-600 text-white rounded-lg hover:bg-primary-700 transition-colors duration-200"
-        >
-            Subscribe
-        </button>
-
-
-            <p class="text-xs text-gray-500 mt-2">We respect your privacy. Unsubscribe at any time.</p>
-
-    </form>
-</div>
-
-
-
-
-
-        <div class="bg-white rounded-lg shadow-md p-6">
-            <h3 class="text-lg font-bold mb-4">Recent Articles</h3>
-            <div class="space-y-4">
-
-
-            </div>
-        </div>
-
-
-
-
-        <div class="bg-white rounded-lg shadow-md p-6">
-            <h3 class="text-lg font-bold mb-4">Categories</h3>
-            <div class="flex flex-wrap gap-2">
-
-                    <a href="/categories/content"
-                       class="inline-block px-3 py-1 text-sm font-medium text-primary-600 bg-primary-50 rounded-full hover:bg-primary-100">
-                        content
-                        <span class="text-gray-500 ml-1">(1)</span>
-                    </a>
-
-                    <a href="/categories/deployment"
-                       class="inline-block px-3 py-1 text-sm font-medium text-primary-600 bg-primary-50 rounded-full hover:bg-primary-100">
-                        deployment
-                        <span class="text-gray-500 ml-1">(1)</span>
-                    </a>
-
-                    <a href="/categories/development"
-                       class="inline-block px-3 py-1 text-sm font-medium text-primary-600 bg-primary-50 rounded-full hover:bg-primary-100">
-                        development
-                        <span class="text-gray-500 ml-1">(1)</span>
-                    </a>
-
-                    <a href="/categories/performance"
-                       class="inline-block px-3 py-1 text-sm font-medium text-primary-600 bg-primary-50 rounded-full hover:bg-primary-100">
-                        performance
-                        <span class="text-gray-500 ml-1">(1)</span>
-                    </a>
-
-                    <a href="/categories/tutorials"
-                       class="inline-block px-3 py-1 text-sm font-medium text-primary-600 bg-primary-50 rounded-full hover:bg-primary-100">
-                        tutorials
-                        <span class="text-gray-500 ml-1">(1)</span>
-                    </a>
-
-            </div>
-        </div>
-
-
-
-
-        <div class="bg-white rounded-lg shadow-md p-6">
-            <h3 class="text-lg font-bold mb-4">Popular Tags</h3>
-            <div class="flex flex-wrap gap-2">
-
-
-                    <a href="/tags/hugo"
-                       class="text-sm text-gray-600 hover:text-primary-600">
-                        #hugo
-                        <span class="text-gray-500">(5)</span>
-                    </a>
-
-                    <a href="/tags/beginners"
-                       class="text-sm text-gray-600 hover:text-primary-600">
-                        #beginners
-                        <span class="text-gray-500">(1)</span>
-                    </a>
-
-                    <a href="/tags/content-management"
-                       class="text-sm text-gray-600 hover:text-primary-600">
-                        #content-management
-                        <span class="text-gray-500">(1)</span>
-                    </a>
-
-                    <a href="/tags/customization"
-                       class="text-sm text-gray-600 hover:text-primary-600">
-                        #customization
-                        <span class="text-gray-500">(1)</span>
-                    </a>
-
-                    <a href="/tags/deployment"
-                       class="text-sm text-gray-600 hover:text-primary-600">
-                        #deployment
-                        <span class="text-gray-500">(1)</span>
-                    </a>
-
-                    <a href="/tags/github-pages"
-                       class="text-sm text-gray-600 hover:text-primary-600">
-                        #github-pages
-                        <span class="text-gray-500">(1)</span>
-                    </a>
-
-                    <a href="/tags/netlify"
-                       class="text-sm text-gray-600 hover:text-primary-600">
-                        #netlify
-                        <span class="text-gray-500">(1)</span>
-                    </a>
-
-                    <a href="/tags/optimization"
-                       class="text-sm text-gray-600 hover:text-primary-600">
-                        #optimization
-                        <span class="text-gray-500">(1)</span>
-                    </a>
-
-                    <a href="/tags/organization"
-                       class="text-sm text-gray-600 hover:text-primary-600">
-                        #organization
-                        <span class="text-gray-500">(1)</span>
-                    </a>
-
-                    <a href="/tags/performance"
-                       class="text-sm text-gray-600 hover:text-primary-600">
-                        #performance
-                        <span class="text-gray-500">(1)</span>
-                    </a>
-
-                    <a href="/tags/seo"
-                       class="text-sm text-gray-600 hover:text-primary-600">
-                        #seo
-                        <span class="text-gray-500">(1)</span>
-                    </a>
-
-                    <a href="/tags/static-site"
-                       class="text-sm text-gray-600 hover:text-primary-600">
-                        #static-site
-                        <span class="text-gray-500">(1)</span>
-                    </a>
-
-                    <a href="/tags/themes"
-                       class="text-sm text-gray-600 hover:text-primary-600">
-                        #themes
-                        <span class="text-gray-500">(1)</span>
-                    </a>
-
-                    <a href="/tags/vercel"
-                       class="text-sm text-gray-600 hover:text-primary-600">
-                        #vercel
-                        <span class="text-gray-500">(1)</span>
-                    </a>
-
-                    <a href="/tags/web-design"
-                       class="text-sm text-gray-600 hover:text-primary-600">
-                        #web-design
-                        <span class="text-gray-500">(1)</span>
-                    </a>
-
-                    <a href="/tags/web-development"
-                       class="text-sm text-gray-600 hover:text-primary-600">
-                        #web-development
-                        <span class="text-gray-500">(1)</span>
-                    </a>
-
-                    <a href="/tags/workflow"
-                       class="text-sm text-gray-600 hover:text-primary-600">
-                        #workflow
-                        <span class="text-gray-500">(1)</span>
-                    </a>
-
-            </div>
-        </div>
-
-</div>
-
-        </aside>
-    </div>
-
-
-    <nav class="border-t border-gray-200 mt-12 pt-8">
-        <div class="flex justify-between items-center">
-
-                <a href="/careers/"
-                   class="group flex items-center">
-                    <svg class="w-5 h-5 mr-2 text-gray-600 group-hover:text-primary-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"></path>
-                    </svg>
-                    <div>
-                        <div class="text-sm text-gray-600">Previous Post</div>
-                        <div class="font-medium group-hover:text-primary-600">Join Our Team</div>
-                    </div>
-                </a>
-
-
-
-                <a href="/company/"
-                   class="group flex items-center text-right">
-                    <div>
-                        <div class="text-sm text-gray-600">Next Post</div>
-                        <div class="font-medium group-hover:text-primary-600">About Our Company</div>
-                    </div>
-                    <svg class="w-5 h-5 ml-2 text-gray-600 group-hover:text-primary-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                    </svg>
-                </a>
-
-        </div>
-    </nav>
-
-
-
-        <div class="mt-16">
-
-<section class="cta-section">
-    <div class="container">
-
-
-
-        <div class="relative rounded-lg overflow-hidden bg-primary-600 cta-gradient"
-             style="--gradient-angle: 45; --gradient-from: #141E30; --gradient-to: #243B55">
-            <div class="relative text-center max-w-3xl mx-auto px-6 py-10">
-                <h2 class="text-3xl md:text-4xl font-bold text-white mb-6">Ready to adopt AI in your practice?</h2>
-                <p class="text-xl text-primary-100 mb-8">Join providers already using our state of the art models in their workflows.</p>
-                <div class="flex flex-col sm:flex-row justify-center gap-4">
-
-
-                        <a href="/demo" class="btn border-2 border-white text-white hover:bg-primary-700">
-                            Book Demo
-                        </a>
-
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-
-        </div>
-
-</div>
-
-    </div>
-
-
-    <footer class="bg-gray-50 py-12 border-t border-gray-200">
-    <div class="container mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl">
-        <div class="flex flex-col md:flex-row justify-between space-y-4 md:space-y-0">
-
-            <div class="flex-1">
-                <div class="flex items-center space-x-3 mb-4">
-                    <a href="http://localhost:1313/" class="inline-block">
-
-                            <img src="/images/logo.png" alt="EncinaLabs" class="h-6">
-
-                    </a>
-                    <span class="text-xl font-bold text-gray-900">EncinaLabs</span>
-                </div>
-                <div class="flex space-x-3 p-2">
-
-
-
-
-
-
-                </div>
-            </div>
-
-
-            <div class="flex-1">
-                <h3 class="text-sm font-semibold uppercase tracking-wider text-gray-900 mb-4"></h3>
-                <ul class="space-y-2">
-
-                </ul>
-            </div>
-
-
-            <div class="flex-1">
-                <h3 class="text-sm font-semibold uppercase tracking-wider text-gray-900 mb-4">COMPANY</h3>
-                <ul class="space-y-2">
-
-                        <li><a href="/blog" class="text-gray-600 hover:text-primary-600">Blog</a></li>
-
-                        <li><a href="/company" class="text-gray-600 hover:text-primary-600">About Us</a></li>
-
-                </ul>
-            </div>
-
-
-            <div class="flex-1">
-                <h3 class="text-sm font-semibold uppercase tracking-wider text-gray-900 mb-4"></h3>
-                <ul class="space-y-2">
-
-                </ul>
-            </div>
-        </div>
-
-
-        <div class="mt-12 pt-8 border-t border-gray-200">
-            <div class="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
-                <p class="text-gray-600 text-sm">
-                    © 2025 EncinaLabs. All rights reserved.
-                </p>
-                <a href="https://chaoming.li" class="text-sm text-gray-600 hover:text-primary-600" target="_blank" rel="noopener noreferrer">
-                    Designed by EncinaLabs LLC
-                </a>
-            </div>
-        </div>
-    </div>
-</footer>
-
-
-
-    <script>
-        const mobileMenuButton = document.getElementById('mobile-menu-button');
-        if (mobileMenuButton) {
-            mobileMenuButton.addEventListener('click', function() {
-                const mobileMenu = document.getElementById('mobile-menu');
-                if (mobileMenu) {
-                    mobileMenu.classList.toggle('hidden');
-                }
-            });
+  </head>
+  <body onload="init()">
+    <figure style="overflow:visible;" id="qtspinner">
+      <center style="margin-top:1.5em; line-height:150%">
+        <img src="qtlogo.svg" width="320" height="200" style="display:block"></img>
+        <strong>Qt for WebAssembly: scanarea</strong>
+        <div id="qtstatus"></div>
+        <noscript>JavaScript is disabled. Please enable JavaScript to use this application.</noscript>
+      </center>
+    </figure>
+    <div id="screen"></div>
+
+    <script type="text/javascript">
+        async function init()
+        {
+            const spinner = document.querySelector('#qtspinner');
+            const screen = document.querySelector('#screen');
+            const status = document.querySelector('#qtstatus');
+
+            const showUi = (ui) => {
+                [spinner, screen].forEach(element => element.style.display = 'none');
+                if (screen === ui)
+                    screen.style.position = 'default';
+                ui.style.display = 'block';
+            }
+
+            try {
+                showUi(spinner);
+                status.innerHTML = 'Loading...';
+
+                const instance = await qtLoad({
+                    qt: {
+                        onLoaded: () => showUi(screen),
+                        onExit: exitData =>
+                        {
+                            status.innerHTML = 'Application exit';
+                            status.innerHTML +=
+                                exitData.code !== undefined ? ` with code ${exitData.code}` : '';
+                            status.innerHTML +=
+                                exitData.text !== undefined ? ` (${exitData.text})` : '';
+                            showUi(spinner);
+                        },
+                        entryFunction: window.scanarea_entry,
+                        containerElements: [screen],
+                        
+                    }
+                });
+            } catch (e) {
+                console.error(e);
+                console.error(e.stack);
+            }
         }
     </script>
-</body>
+    <script src="scanarea.js"></script>
+    <script type="text/javascript" src="qtloader.js"></script>
+  </body>
 </html>
