@@ -1,116 +1,388 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Home on EncinaLabs</title>
-    <link>https://encinalabs.github.io/</link>
-    <description>Recent content in Home on EncinaLabs</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="https://encinalabs.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Surgical object detection and its impact on patient outcomes</title>
-      <link>https://encinalabs.github.io/blog/surgical-object-detection/</link>
-      <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://encinalabs.github.io/blog/surgical-object-detection/</guid>
-      <description>Surgical object detection and its impact on patient outcomes</description>
-    </item>
-    <item>
-      <title>Navigating the Human Body: Challenges in the Medical Computer Vision Tracking</title>
-      <link>https://encinalabs.github.io/blog/challenges-medical-computer-vision-tracking/</link>
-      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://encinalabs.github.io/blog/challenges-medical-computer-vision-tracking/</guid>
-      <description>challenges in the soft-tissue tracking space.</description>
-    </item>
-    <item>
-      <title>Homomorphic Encryption in Medical Imaging AI</title>
-      <link>https://encinalabs.github.io/blog/homomorphic-encryption-medical-imaging-ai/</link>
-      <pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://encinalabs.github.io/blog/homomorphic-encryption-medical-imaging-ai/</guid>
-      <description>Discover how Encinalabs uses homomorphic encryption to enable secure, privacy-first machine learning for surgical and medical imaging without exposing sensitive patient data.</description>
-    </item>
-    <item>
-      <title>Product Manager</title>
-      <link>https://encinalabs.github.io/jobs/product-manager/</link>
-      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://encinalabs.github.io/jobs/product-manager/</guid>
-      <description>&lt;p&gt;We&amp;rsquo;re looking for a Product Manager to join our team and help shape the future of our product.&lt;/p&gt;&#xA;&lt;h2 id=&#34;about-the-role&#34;&gt;About the Role&lt;/h2&gt;&#xA;&lt;p&gt;As a Product Manager, you&amp;rsquo;ll be responsible for:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Defining and executing the product strategy and roadmap&lt;/li&gt;&#xA;&lt;li&gt;Working closely with engineering, design, and marketing teams&lt;/li&gt;&#xA;&lt;li&gt;Conducting user research and gathering customer feedback&lt;/li&gt;&#xA;&lt;li&gt;Analyzing market trends and competitive landscape&lt;/li&gt;&#xA;&lt;li&gt;Prioritizing features and managing the product backlog&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;4+ years of product management experience in SaaS&lt;/li&gt;&#xA;&lt;li&gt;Strong analytical and problem-solving skills&lt;/li&gt;&#xA;&lt;li&gt;Excellent communication and stakeholder management abilities&lt;/li&gt;&#xA;&lt;li&gt;Experience with agile development methodologies&lt;/li&gt;&#xA;&lt;li&gt;Data-driven decision making mindset&lt;/li&gt;&#xA;&lt;li&gt;Technical background or ability to work closely with technical teams&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;nice-to-have&#34;&gt;Nice to Have&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;MBA or relevant advanced degree&lt;/li&gt;&#xA;&lt;li&gt;Experience with B2B SaaS products&lt;/li&gt;&#xA;&lt;li&gt;Background in UX design or software development&lt;/li&gt;&#xA;&lt;li&gt;Experience with product analytics tools&lt;/li&gt;&#xA;&lt;li&gt;Public speaking or presentation experience&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;benefits&#34;&gt;Benefits&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Competitive salary and equity package&lt;/li&gt;&#xA;&lt;li&gt;Comprehensive health, dental, and vision insurance&lt;/li&gt;&#xA;&lt;li&gt;401(k) matching&lt;/li&gt;&#xA;&lt;li&gt;Flexible PTO policy&lt;/li&gt;&#xA;&lt;li&gt;Professional development budget&lt;/li&gt;&#xA;&lt;li&gt;Wellness programs&lt;/li&gt;&#xA;&lt;li&gt;Company-sponsored events&lt;/li&gt;&#xA;&lt;li&gt;Office perks and snacks&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;how-to-apply&#34;&gt;How to Apply&lt;/h2&gt;&#xA;&lt;p&gt;Please send your resume and a cover letter detailing your product management experience and why you&amp;rsquo;re interested in joining our team. Include examples of products you&amp;rsquo;ve managed and their impact.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Senior Frontend Developer</title>
-      <link>https://encinalabs.github.io/jobs/senior-frontend-developer/</link>
-      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://encinalabs.github.io/jobs/senior-frontend-developer/</guid>
-      <description>&lt;p&gt;We&amp;rsquo;re looking for a Senior Frontend Developer to join our growing team and help shape the future of our SaaS platform.&lt;/p&gt;&#xA;&lt;h2 id=&#34;about-the-role&#34;&gt;About the Role&lt;/h2&gt;&#xA;&lt;p&gt;As a Senior Frontend Developer, you&amp;rsquo;ll be responsible for:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Building and maintaining high-quality, reusable UI components&lt;/li&gt;&#xA;&lt;li&gt;Collaborating with designers to implement pixel-perfect interfaces&lt;/li&gt;&#xA;&lt;li&gt;Optimizing application performance and accessibility&lt;/li&gt;&#xA;&lt;li&gt;Mentoring junior developers and reviewing code&lt;/li&gt;&#xA;&lt;li&gt;Contributing to technical architecture decisions&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;5+ years of experience in frontend development&lt;/li&gt;&#xA;&lt;li&gt;Expert knowledge of modern JavaScript, HTML, and CSS&lt;/li&gt;&#xA;&lt;li&gt;Strong experience with React or Vue.js&lt;/li&gt;&#xA;&lt;li&gt;Understanding of modern frontend build tools and workflows&lt;/li&gt;&#xA;&lt;li&gt;Experience with responsive design and cross-browser compatibility&lt;/li&gt;&#xA;&lt;li&gt;Strong communication skills and ability to work in a remote team&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;nice-to-have&#34;&gt;Nice to Have&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Experience with TypeScript&lt;/li&gt;&#xA;&lt;li&gt;Knowledge of testing frameworks (Jest, Cypress)&lt;/li&gt;&#xA;&lt;li&gt;Contributions to open source projects&lt;/li&gt;&#xA;&lt;li&gt;Experience with design systems&lt;/li&gt;&#xA;&lt;li&gt;Understanding of backend technologies&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;benefits&#34;&gt;Benefits&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Competitive salary and equity package&lt;/li&gt;&#xA;&lt;li&gt;Flexible working hours&lt;/li&gt;&#xA;&lt;li&gt;Remote-first culture&lt;/li&gt;&#xA;&lt;li&gt;Health insurance&lt;/li&gt;&#xA;&lt;li&gt;Learning and development budget&lt;/li&gt;&#xA;&lt;li&gt;Annual team retreats&lt;/li&gt;&#xA;&lt;li&gt;Home office setup allowance&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;how-to-apply&#34;&gt;How to Apply&lt;/h2&gt;&#xA;&lt;p&gt;Please send your resume, portfolio, and a brief cover letter explaining why you&amp;rsquo;d be a great fit for our team. Include links to any relevant projects or open source contributions.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About Our Company</title>
-      <link>https://encinalabs.github.io/company/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://encinalabs.github.io/company/</guid>
-      <description>&lt;section class=&#34;bg-gradient-to-b from-blue-50 via-blue-50 to-white pt-20 pb-32&#34;&gt;&#xA;    &lt;div class=&#34;container mx-auto px-4&#34;&gt;&#xA;        &#xA;    &lt;div class=&#34;text-center&#34;&gt;&#xA;        &lt;h1 class=&#34;text-4xl md:text-5xl font-bold mb-6&#34;&gt;Building the Future of Healthcare AI Systems&lt;/h1&gt;&#xA;        &lt;p class=&#34;text-xl text-gray-600 mb-16&#34;&gt;We&#39;re on a mission to revolutionize how providers adopt the AI solutions.&lt;/p&gt;&#xA;        &lt;div class=&#34;max-w-3xl mx-auto bg-white rounded-xl shadow-sm p-8&#34;&gt;&#xA;            &lt;h2 class=&#34;text-3xl font-bold mb-4&#34;&gt;Our Mission&lt;/h2&gt;&#xA;            &lt;p class=&#34;text-xl text-gray-600&#34;&gt;&#xA;                We&#39;re dedicated to empowering healthcare systems with the state of the art AI solutions that drive growth and efficiency. Our platform combines cutting-edge technology and decades of combined industry experience to solve complex healthcare challenges.&#xA;            &lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Beautiful Design System</title>
-      <link>https://encinalabs.github.io/features/design-system/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://encinalabs.github.io/features/design-system/</guid>
-      <description>&lt;h2 id=&#34;comprehensive-design-system&#34;&gt;Comprehensive Design System&lt;/h2&gt;&#xA;&lt;p&gt;Our theme includes a complete design system that makes it easy to create beautiful, consistent interfaces. Built on TailwindCSS, it provides the flexibility to customize every aspect of your design while maintaining a professional look.&lt;/p&gt;&#xA;&lt;h3 id=&#34;design-components&#34;&gt;Design Components&lt;/h3&gt;&#xA;&lt;h4 id=&#34;core-elements&#34;&gt;Core Elements&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Typography system with perfect vertical rhythm&lt;/li&gt;&#xA;&lt;li&gt;Color palette with semantic variables&lt;/li&gt;&#xA;&lt;li&gt;Spacing and sizing scales&lt;/li&gt;&#xA;&lt;li&gt;Grid and layout systems&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;ui-components&#34;&gt;UI Components&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Navigation components (headers, footers, menus)&lt;/li&gt;&#xA;&lt;li&gt;Hero sections and feature displays&lt;/li&gt;&#xA;&lt;li&gt;Cards and content containers&lt;/li&gt;&#xA;&lt;li&gt;Forms and input elements&lt;/li&gt;&#xA;&lt;li&gt;Buttons and CTAs&lt;/li&gt;&#xA;&lt;li&gt;Pricing tables&lt;/li&gt;&#xA;&lt;li&gt;Testimonial displays&lt;/li&gt;&#xA;&lt;li&gt;Team member profiles&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;design-features&#34;&gt;Design Features&lt;/h4&gt;&#xA;&lt;h5 id=&#34;customization&#34;&gt;Customization&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Easy theme customization through TailwindCSS&lt;/li&gt;&#xA;&lt;li&gt;Brand color management&lt;/li&gt;&#xA;&lt;li&gt;Typography customization&lt;/li&gt;&#xA;&lt;li&gt;Spacing system adjustment&lt;/li&gt;&#xA;&lt;li&gt;Component variants&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h5 id=&#34;accessibility&#34;&gt;Accessibility&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;WCAG 2.1 compliant components&lt;/li&gt;&#xA;&lt;li&gt;Proper ARIA attributes&lt;/li&gt;&#xA;&lt;li&gt;Keyboard navigation support&lt;/li&gt;&#xA;&lt;li&gt;High contrast mode support&lt;/li&gt;&#xA;&lt;li&gt;Screen reader optimized&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h5 id=&#34;responsive-design&#34;&gt;Responsive Design&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Mobile-first approach&lt;/li&gt;&#xA;&lt;li&gt;Breakpoint system&lt;/li&gt;&#xA;&lt;li&gt;Fluid typography&lt;/li&gt;&#xA;&lt;li&gt;Adaptive layouts&lt;/li&gt;&#xA;&lt;li&gt;Touch-friendly interactions&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Our design system provides the perfect foundation for creating beautiful, accessible, and responsive websites that stand out from the crowd.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Book a demo with us</title>
-      <link>https://encinalabs.github.io/bookdemo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://encinalabs.github.io/bookdemo/</guid>
-      <description>&lt;p&gt;Fill out the form below and we’ll confirm your booking.&lt;/p&gt;&#xA;&lt;section class=&#34;bg-gradient-to-b from-blue-50 via-blue-50 to-white pt-20 pb-32&#34;&gt;&#xA;    &lt;div class=&#34;container mx-auto px-4&#34;&gt;&#xA;        &#xA;    &lt;div class=&#34;max-w-6xl mx-auto&#34;&gt;&#xA;        &lt;div class=&#34;grid grid-cols-1 gap-8 text-center&#34;&gt;&#xA;&#xA;          &lt;section class=&#34;book-demo&#34;&gt;&#xA;&#xA;            &lt;form id=&#34;demoForm&#34; class=&#34;space-y-6 max-w-lg mx-auto text-left&#34;&gt;&#xA;              &lt;div&gt;&#xA;                &lt;label class=&#34;block text-sm font-medium text-gray-700&#34;&gt;Name&lt;/label&gt;&#xA;                &lt;input type=&#34;text&#34; name=&#34;name&#34; required class=&#34;mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 sm:text-sm&#34;&gt;&#xA;              &lt;/div&gt;&#xA;              &lt;div&gt;&#xA;                &lt;label class=&#34;block text-sm font-medium text-gray-700&#34;&gt;Email&lt;/label&gt;&#xA;                &lt;input type=&#34;email&#34; name=&#34;email&#34; required class=&#34;mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 sm:text-sm&#34;&gt;&#xA;              &lt;/div&gt;&#xA;              &lt;div&gt;&#xA;                &lt;label class=&#34;block text-sm font-medium text-gray-700&#34;&gt;Company&lt;/label&gt;&#xA;                &lt;input type=&#34;text&#34; name=&#34;company&#34; required class=&#34;mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 sm:text-sm&#34;&gt;&#xA;              &lt;/div&gt;&#xA;              &lt;div&gt;&#xA;                &lt;label class=&#34;block text-sm font-medium text-gray-700&#34;&gt;Preferred Date&lt;/label&gt;&#xA;                &lt;input type=&#34;date&#34; name=&#34;date&#34; required class=&#34;mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 sm:text-sm&#34;&gt;&#xA;              &lt;/div&gt;&#xA;              &lt;div&gt;&#xA;                &lt;label class=&#34;block text-sm font-medium text-gray-700&#34;&gt;Message&lt;/label&gt;&#xA;                &lt;textarea name=&#34;message&#34; class=&#34;mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 sm:text-sm&#34;&gt;&lt;/textarea&gt;&#xA;              &lt;/div&gt;&#xA;              &lt;div class=&#34;text-center&#34;&gt;&#xA;                &lt;button&#xA;                  type=&#34;submit&#34;&#xA;                  class=&#34;block w-full inline-flex justify-center rounded-md border border-transparent bg-blue-600 py-2 px-4 text-sm font-medium text-black shadow-sm hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 text-black&#34;&#xA;                &gt;&#xA;                  Submit&#xA;                &lt;/button&gt;&#xA;              &lt;/div&gt;&#xA;            &lt;/form&gt;&#xA;          &lt;p id=&#34;formStatus&#34; style=&#34;display:none;&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Developer Experience</title>
-      <link>https://encinalabs.github.io/features/developer-experience/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://encinalabs.github.io/features/developer-experience/</guid>
-      <description>&lt;h2 id=&#34;built-for-developers&#34;&gt;Built for Developers&lt;/h2&gt;&#xA;&lt;p&gt;Our theme is designed with developers in mind, providing a clean, efficient workflow that makes building websites enjoyable and productive.&lt;/p&gt;&#xA;&lt;h3 id=&#34;development-features&#34;&gt;Development Features&lt;/h3&gt;&#xA;&lt;h4 id=&#34;project-structure&#34;&gt;Project Structure&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Logical directory organization&lt;/li&gt;&#xA;&lt;li&gt;Clear separation of concerns&lt;/li&gt;&#xA;&lt;li&gt;Modular component architecture&lt;/li&gt;&#xA;&lt;li&gt;Consistent naming conventions&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;development-workflow&#34;&gt;Development Workflow&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Fast hot reload development server&lt;/li&gt;&#xA;&lt;li&gt;Automatic asset processing&lt;/li&gt;&#xA;&lt;li&gt;Source maps for debugging&lt;/li&gt;&#xA;&lt;li&gt;Build process optimization&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;component-system&#34;&gt;Component System&lt;/h4&gt;&#xA;&lt;h5 id=&#34;shortcodes&#34;&gt;Shortcodes&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Rich set of pre-built shortcodes&lt;/li&gt;&#xA;&lt;li&gt;Easy to create custom shortcodes&lt;/li&gt;&#xA;&lt;li&gt;Documentation for each shortcode&lt;/li&gt;&#xA;&lt;li&gt;Example implementations&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h5 id=&#34;partials&#34;&gt;Partials&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Reusable partial templates&lt;/li&gt;&#xA;&lt;li&gt;Context-aware components&lt;/li&gt;&#xA;&lt;li&gt;Easy to extend and modify&lt;/li&gt;&#xA;&lt;li&gt;Clear documentation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;customization&#34;&gt;Customization&lt;/h4&gt;&#xA;&lt;h5 id=&#34;configuration&#34;&gt;Configuration&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Central configuration file&lt;/li&gt;&#xA;&lt;li&gt;Environment variables support&lt;/li&gt;&#xA;&lt;li&gt;Feature flags&lt;/li&gt;&#xA;&lt;li&gt;Easy theme customization&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h5 id=&#34;styling&#34;&gt;Styling&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TailwindCSS integration&lt;/li&gt;&#xA;&lt;li&gt;PostCSS processing&lt;/li&gt;&#xA;&lt;li&gt;Custom CSS support&lt;/li&gt;&#xA;&lt;li&gt;Design token system&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;documentation&#34;&gt;Documentation&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Getting started guide&lt;/li&gt;&#xA;&lt;li&gt;Component documentation&lt;/li&gt;&#xA;&lt;li&gt;Configuration reference&lt;/li&gt;&#xA;&lt;li&gt;Best practices&lt;/li&gt;&#xA;&lt;li&gt;Troubleshooting guide&lt;/li&gt;&#xA;&lt;li&gt;Deployment instructions&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Our developer experience focuses on making it easy to build, customize, and maintain your website while following best practices and maintaining clean, efficient code.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Join Our Team</title>
-      <link>https://encinalabs.github.io/careers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://encinalabs.github.io/careers/</guid>
-      <description>&lt;p&gt;At Saasify, we believe in empowering our team members to do their best work. We foster an environment of innovation, collaboration, and continuous learning. Our culture is built on trust, transparency, and a shared commitment to excellence.&lt;/p&gt;&#xA;&lt;p&gt;We&amp;rsquo;re looking for passionate individuals who want to make a difference and grow with us. If you&amp;rsquo;re excited about building the future of SaaS and working with cutting-edge technology, we&amp;rsquo;d love to hear from you.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>License</title>
-      <link>https://encinalabs.github.io/license/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://encinalabs.github.io/license/</guid>
-      <description>&lt;h2 id=&#34;mit-license&#34;&gt;MIT License&lt;/h2&gt;&#xA;&lt;p&gt;Copyright (c) 2024&lt;/p&gt;&#xA;&lt;p&gt;Permission is hereby granted, free of charge, to any person obtaining a copy&#xA;of this software and associated documentation files (the &amp;ldquo;Software&amp;rdquo;), to deal&#xA;in the Software without restriction, including without limitation the rights&#xA;to use, copy, modify, merge, publish, distribute, sublicense, and/or sell&#xA;copies of the Software, and to permit persons to whom the Software is&#xA;furnished to do so, subject to the following conditions:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Lightning-Fast Performance</title>
-      <link>https://encinalabs.github.io/features/performance/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://encinalabs.github.io/features/performance/</guid>
-      <description>&lt;h2 id=&#34;built-for-speed&#34;&gt;Built for Speed&lt;/h2&gt;&#xA;&lt;p&gt;Our theme is engineered from the ground up with performance in mind. By leveraging Hugo&amp;rsquo;s powerful static site generation and combining it with modern optimization techniques, we deliver websites that load instantly and run smoothly.&lt;/p&gt;&#xA;&lt;h3 id=&#34;performance-metrics&#34;&gt;Performance Metrics&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Build Time&lt;/strong&gt;: Less than 1 second for most sites&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Page Load Time&lt;/strong&gt;: Under 500ms first contentful paint&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Time to Interactive&lt;/strong&gt;: Under 1.5 seconds&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Google Lighthouse Score&lt;/strong&gt;: 95+ on all metrics&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;optimization-features&#34;&gt;Optimization Features&lt;/h3&gt;&#xA;&lt;h4 id=&#34;asset-optimization&#34;&gt;Asset Optimization&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Automatic image optimization and WebP conversion&lt;/li&gt;&#xA;&lt;li&gt;CSS minification and purging of unused styles&lt;/li&gt;&#xA;&lt;li&gt;JavaScript bundling and tree-shaking&lt;/li&gt;&#xA;&lt;li&gt;Lazy loading of images and components&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;caching-strategy&#34;&gt;Caching Strategy&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Efficient browser caching with proper headers&lt;/li&gt;&#xA;&lt;li&gt;Static asset fingerprinting&lt;/li&gt;&#xA;&lt;li&gt;Pre-rendered HTML for instant loads&lt;/li&gt;&#xA;&lt;li&gt;Service worker for offline capabilities&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;cdn-integration&#34;&gt;CDN Integration&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Built for global distribution&lt;/li&gt;&#xA;&lt;li&gt;Edge caching ready&lt;/li&gt;&#xA;&lt;li&gt;Automatic cache invalidation&lt;/li&gt;&#xA;&lt;li&gt;Geographic redundancy&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Our performance-first approach ensures your website not only looks great but delivers an exceptional user experience through blazing-fast load times and smooth interactions.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Pricing</title>
-      <link>https://encinalabs.github.io/pricing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://encinalabs.github.io/pricing/</guid>
-      <description>&lt;section class=&#34;py-16 bg-white&#34;&gt;&#xA;    &lt;div class=&#34;max-w-6xl mx-auto px-4 sm:px-6 lg:px-8&#34;&gt;&#xA;        &#xA;        &lt;div class=&#34;text-center&#34;&gt;&#xA;            &lt;h2 class=&#34;text-3xl font-bold text-gray-900&#34;&gt;Designed for business teams like yours&lt;/h2&gt;&#xA;            &#xA;            &lt;p class=&#34;mt-4 text-xl text-gray-600&#34;&gt;Here at Flowbite we focus on markets where technology, innovation, and capital can unlock long-term value and drive economic growth.&lt;/p&gt;&#xA;            &#xA;        &lt;/div&gt;&#xA;        &#xA;        &#xA;        &lt;div class=&#34;mt-16&#34;&gt;&#xA;            &lt;div class=&#34;grid grid-cols-1 md:grid-cols-3 gap-8&#34;&gt;&#xA;                &#xA;                &lt;div class=&#34;w-full&#34;&gt;&#xA;                    &lt;div class=&#34;h-full flex flex-col rounded-2xl border border-gray-200 bg-white shadow-sm hover:shadow-lg transition-shadow duration-300 relative&#34;&gt;&#xA;                        &#xA;                        &lt;div class=&#34;p-8 flex flex-col flex-grow&#34;&gt;&#xA;                            &lt;div class=&#34;mb-6&#34;&gt;&#xA;                                &lt;h3 class=&#34;text-2xl font-bold text-gray-900&#34;&gt;Starter&lt;/h3&gt;&#xA;                                &lt;p class=&#34;mt-2 text-gray-500&#34;&gt;Best option for personal use &amp;amp; for your next project.&lt;/p&gt;&#xA;                            &lt;/div&gt;&#xA;                            &lt;div class=&#34;mb-8&#34;&gt;&#xA;                                &lt;p class=&#34;flex items-baseline&#34;&gt;&#xA;                                    &lt;span class=&#34;text-5xl font-bold tracking-tight text-gray-900&#34;&gt;$29&lt;/span&gt;&#xA;                                    &lt;span class=&#34;ml-2 text-gray-500&#34;&gt;/month&lt;/span&gt;&#xA;                                &lt;/p&gt;&#xA;                            &lt;/div&gt;&#xA;                            &lt;ul class=&#34;space-y-4 text-gray-600 flex-grow&#34;&gt;&#xA;                                &#xA;                                &lt;li class=&#34;flex items-start&#34;&gt;&#xA;                                    &lt;svg class=&#34;h-6 w-6 flex-shrink-0 text-blue-500&#34; fill=&#34;currentColor&#34; viewBox=&#34;0 0 24 24&#34;&gt;&#xA;                                        &lt;path d=&#34;M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z&#34;/&gt;&#xA;                                    &lt;/svg&gt;&#xA;                                    &lt;span class=&#34;ml-3&#34;&gt;Individual configuration&lt;/span&gt;&#xA;                                &lt;/li&gt;&#xA;                                &#xA;                                &lt;li class=&#34;flex items-start&#34;&gt;&#xA;                                    &lt;svg class=&#34;h-6 w-6 flex-shrink-0 text-blue-500&#34; fill=&#34;currentColor&#34; viewBox=&#34;0 0 24 24&#34;&gt;&#xA;                                        &lt;path d=&#34;M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z&#34;/&gt;&#xA;                                    &lt;/svg&gt;&#xA;                                    &lt;span class=&#34;ml-3&#34;&gt;No setup, or hidden fees&lt;/span&gt;&#xA;                                &lt;/li&gt;&#xA;                                &#xA;                                &lt;li class=&#34;flex items-start&#34;&gt;&#xA;                                    &lt;svg class=&#34;h-6 w-6 flex-shrink-0 text-blue-500&#34; fill=&#34;currentColor&#34; viewBox=&#34;0 0 24 24&#34;&gt;&#xA;                                        &lt;path d=&#34;M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z&#34;/&gt;&#xA;                                    &lt;/svg&gt;&#xA;                                    &lt;span class=&#34;ml-3&#34;&gt;Team size: 1 developer&lt;/span&gt;&#xA;                                &lt;/li&gt;&#xA;                                &#xA;                                &lt;li class=&#34;flex items-start&#34;&gt;&#xA;                                    &lt;svg class=&#34;h-6 w-6 flex-shrink-0 text-blue-500&#34; fill=&#34;currentColor&#34; viewBox=&#34;0 0 24 24&#34;&gt;&#xA;                                        &lt;path d=&#34;M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z&#34;/&gt;&#xA;                                    &lt;/svg&gt;&#xA;                                    &lt;span class=&#34;ml-3&#34;&gt;Premium support: 6 months&lt;/span&gt;&#xA;                                &lt;/li&gt;&#xA;                                &#xA;                                &lt;li class=&#34;flex items-start&#34;&gt;&#xA;                                    &lt;svg class=&#34;h-6 w-6 flex-shrink-0 text-blue-500&#34; fill=&#34;currentColor&#34; viewBox=&#34;0 0 24 24&#34;&gt;&#xA;                                        &lt;path d=&#34;M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z&#34;/&gt;&#xA;                                    &lt;/svg&gt;&#xA;                                    &lt;span class=&#34;ml-3&#34;&gt;Free updates: 6 months&lt;/span&gt;&#xA;                                &lt;/li&gt;&#xA;                                &#xA;                            &lt;/ul&gt;&#xA;                            &lt;div class=&#34;mt-8&#34;&gt;&#xA;                                &lt;a href=&#34;#&#34; class=&#34;btn btn-primary w-full&#34;&gt;&#xA;                                    Get started&#xA;                                &lt;/a&gt;&#xA;                            &lt;/div&gt;&#xA;                        &lt;/div&gt;&#xA;                    &lt;/div&gt;&#xA;                &lt;/div&gt;&#xA;                &#xA;                &lt;div class=&#34;w-full&#34;&gt;&#xA;                    &lt;div class=&#34;h-full flex flex-col rounded-2xl border border-gray-200 bg-white shadow-sm hover:shadow-lg transition-shadow duration-300 relative&#34;&gt;&#xA;                        &#xA;                        &lt;div class=&#34;absolute top-4 right-4 inline-block rounded-full bg-blue-100 px-4 py-1 text-sm font-semibold text-blue-800&#34;&gt;&#xA;                            Popular&#xA;                        &lt;/div&gt;&#xA;                        &#xA;                        &lt;div class=&#34;p-8 flex flex-col flex-grow&#34;&gt;&#xA;                            &lt;div class=&#34;mb-6&#34;&gt;&#xA;                                &lt;h3 class=&#34;text-2xl font-bold text-gray-900&#34;&gt;Company&lt;/h3&gt;&#xA;                                &lt;p class=&#34;mt-2 text-gray-500&#34;&gt;Relevant for multiple users, extended &amp;amp; premium support.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Privacy Policy</title>
-      <link>https://encinalabs.github.io/privacy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://encinalabs.github.io/privacy/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;At Saasify, we take your privacy seriously. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our service.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;information-we-collect&#34;&gt;Information We Collect&lt;/h2&gt;&#xA;&lt;h3 id=&#34;personal-information&#34;&gt;Personal Information&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Name and email address&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Billing information&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Usage data and analytics&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Communication preferences&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;automatically-collected-information&#34;&gt;Automatically Collected Information&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;IP addresses&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Browser type&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Device information&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Cookies and tracking technologies&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;how-we-use-your-information&#34;&gt;How We Use Your Information&lt;/h2&gt;&#xA;&lt;p&gt;We use the collected information for:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Service Delivery&lt;/strong&gt;&lt;br&gt;&#xA;Providing and maintaining our service&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Updates&lt;/strong&gt;&lt;br&gt;&#xA;Notifying you about changes to our service&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Support&lt;/strong&gt;&lt;br&gt;&#xA;Providing customer support&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Transactions&lt;/strong&gt;&lt;br&gt;&#xA;Processing your transactions&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Analytics&lt;/strong&gt;&lt;br&gt;&#xA;Analyzing usage patterns to improve our service&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;data-security&#34;&gt;Data Security&lt;/h2&gt;&#xA;&lt;p&gt;We implement appropriate technical and organizational security measures to protect your personal information. However, no method of transmission over the Internet is 100% secure.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Talent Register</title>
-      <link>https://encinalabs.github.io/talent-register/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://encinalabs.github.io/talent-register/</guid>
-      <description></description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on EncinaLabs</title><link>https://encinalabs.github.io/</link><description>Recent content in Home on EncinaLabs</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://encinalabs.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Surgical object detection and its impact on patient outcomes</title><link>https://encinalabs.github.io/blog/surgical-object-detection/</link><pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate><guid>https://encinalabs.github.io/blog/surgical-object-detection/</guid><description>Surgical object detection and its impact on patient outcomes</description></item><item><title>Navigating the Human Body: Challenges in the Medical Computer Vision Tracking</title><link>https://encinalabs.github.io/blog/challenges-medical-computer-vision-tracking/</link><pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate><guid>https://encinalabs.github.io/blog/challenges-medical-computer-vision-tracking/</guid><description>challenges in the soft-tissue tracking space.</description></item><item><title>Homomorphic Encryption in Medical Imaging AI</title><link>https://encinalabs.github.io/blog/homomorphic-encryption-medical-imaging-ai/</link><pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate><guid>https://encinalabs.github.io/blog/homomorphic-encryption-medical-imaging-ai/</guid><description>Discover how Encinalabs uses homomorphic encryption to enable secure, privacy-first machine learning for surgical and medical imaging without exposing sensitive patient data.</description></item><item><title>Product Manager</title><link>https://encinalabs.github.io/jobs/product-manager/</link><pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate><guid>https://encinalabs.github.io/jobs/product-manager/</guid><description>&lt;p&gt;We&amp;rsquo;re looking for a Product Manager to join our team and help shape the future of our product.&lt;/p&gt;
+&lt;h2 id="about-the-role"&gt;About the Role&lt;/h2&gt;
+&lt;p&gt;As a Product Manager, you&amp;rsquo;ll be responsible for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Defining and executing the product strategy and roadmap&lt;/li&gt;
+&lt;li&gt;Working closely with engineering, design, and marketing teams&lt;/li&gt;
+&lt;li&gt;Conducting user research and gathering customer feedback&lt;/li&gt;
+&lt;li&gt;Analyzing market trends and competitive landscape&lt;/li&gt;
+&lt;li&gt;Prioritizing features and managing the product backlog&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="requirements"&gt;Requirements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;4+ years of product management experience in SaaS&lt;/li&gt;
+&lt;li&gt;Strong analytical and problem-solving skills&lt;/li&gt;
+&lt;li&gt;Excellent communication and stakeholder management abilities&lt;/li&gt;
+&lt;li&gt;Experience with agile development methodologies&lt;/li&gt;
+&lt;li&gt;Data-driven decision making mindset&lt;/li&gt;
+&lt;li&gt;Technical background or ability to work closely with technical teams&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="nice-to-have"&gt;Nice to Have&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;MBA or relevant advanced degree&lt;/li&gt;
+&lt;li&gt;Experience with B2B SaaS products&lt;/li&gt;
+&lt;li&gt;Background in UX design or software development&lt;/li&gt;
+&lt;li&gt;Experience with product analytics tools&lt;/li&gt;
+&lt;li&gt;Public speaking or presentation experience&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="benefits"&gt;Benefits&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Competitive salary and equity package&lt;/li&gt;
+&lt;li&gt;Comprehensive health, dental, and vision insurance&lt;/li&gt;
+&lt;li&gt;401(k) matching&lt;/li&gt;
+&lt;li&gt;Flexible PTO policy&lt;/li&gt;
+&lt;li&gt;Professional development budget&lt;/li&gt;
+&lt;li&gt;Wellness programs&lt;/li&gt;
+&lt;li&gt;Company-sponsored events&lt;/li&gt;
+&lt;li&gt;Office perks and snacks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="how-to-apply"&gt;How to Apply&lt;/h2&gt;
+&lt;p&gt;Please send your resume and a cover letter detailing your product management experience and why you&amp;rsquo;re interested in joining our team. Include examples of products you&amp;rsquo;ve managed and their impact.&lt;/p&gt;</description></item><item><title>Senior Frontend Developer</title><link>https://encinalabs.github.io/jobs/senior-frontend-developer/</link><pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate><guid>https://encinalabs.github.io/jobs/senior-frontend-developer/</guid><description>&lt;p&gt;We&amp;rsquo;re looking for a Senior Frontend Developer to join our growing team and help shape the future of our SaaS platform.&lt;/p&gt;
+&lt;h2 id="about-the-role"&gt;About the Role&lt;/h2&gt;
+&lt;p&gt;As a Senior Frontend Developer, you&amp;rsquo;ll be responsible for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Building and maintaining high-quality, reusable UI components&lt;/li&gt;
+&lt;li&gt;Collaborating with designers to implement pixel-perfect interfaces&lt;/li&gt;
+&lt;li&gt;Optimizing application performance and accessibility&lt;/li&gt;
+&lt;li&gt;Mentoring junior developers and reviewing code&lt;/li&gt;
+&lt;li&gt;Contributing to technical architecture decisions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="requirements"&gt;Requirements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;5+ years of experience in frontend development&lt;/li&gt;
+&lt;li&gt;Expert knowledge of modern JavaScript, HTML, and CSS&lt;/li&gt;
+&lt;li&gt;Strong experience with React or Vue.js&lt;/li&gt;
+&lt;li&gt;Understanding of modern frontend build tools and workflows&lt;/li&gt;
+&lt;li&gt;Experience with responsive design and cross-browser compatibility&lt;/li&gt;
+&lt;li&gt;Strong communication skills and ability to work in a remote team&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="nice-to-have"&gt;Nice to Have&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience with TypeScript&lt;/li&gt;
+&lt;li&gt;Knowledge of testing frameworks (Jest, Cypress)&lt;/li&gt;
+&lt;li&gt;Contributions to open source projects&lt;/li&gt;
+&lt;li&gt;Experience with design systems&lt;/li&gt;
+&lt;li&gt;Understanding of backend technologies&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="benefits"&gt;Benefits&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Competitive salary and equity package&lt;/li&gt;
+&lt;li&gt;Flexible working hours&lt;/li&gt;
+&lt;li&gt;Remote-first culture&lt;/li&gt;
+&lt;li&gt;Health insurance&lt;/li&gt;
+&lt;li&gt;Learning and development budget&lt;/li&gt;
+&lt;li&gt;Annual team retreats&lt;/li&gt;
+&lt;li&gt;Home office setup allowance&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="how-to-apply"&gt;How to Apply&lt;/h2&gt;
+&lt;p&gt;Please send your resume, portfolio, and a brief cover letter explaining why you&amp;rsquo;d be a great fit for our team. Include links to any relevant projects or open source contributions.&lt;/p&gt;</description></item><item><title>About Our Company</title><link>https://encinalabs.github.io/company/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://encinalabs.github.io/company/</guid><description>&lt;section class="bg-gradient-to-b from-blue-50 via-blue-50 to-white pt-20 pb-32"&gt;
+ &lt;div class="container mx-auto px-4"&gt;
+ 
+ &lt;div class="text-center"&gt;
+ &lt;h1 class="text-4xl md:text-5xl font-bold mb-6"&gt;Building the Future of Healthcare AI Systems&lt;/h1&gt;
+ &lt;p class="text-xl text-gray-600 mb-16"&gt;We're on a mission to revolutionize how providers adopt the AI solutions.&lt;/p&gt;
+ &lt;div class="max-w-3xl mx-auto bg-white rounded-xl shadow-sm p-8"&gt;
+ &lt;h2 class="text-3xl font-bold mb-4"&gt;Our Mission&lt;/h2&gt;
+ &lt;p class="text-xl text-gray-600"&gt;
+ We're dedicated to empowering healthcare systems with the state of the art AI solutions that drive growth and efficiency. Our platform combines cutting-edge technology and decades of combined industry experience to solve complex healthcare challenges.
+ &lt;/p&gt;</description></item><item><title>Beautiful Design System</title><link>https://encinalabs.github.io/features/design-system/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://encinalabs.github.io/features/design-system/</guid><description>&lt;h2 id="comprehensive-design-system"&gt;Comprehensive Design System&lt;/h2&gt;
+&lt;p&gt;Our theme includes a complete design system that makes it easy to create beautiful, consistent interfaces. Built on TailwindCSS, it provides the flexibility to customize every aspect of your design while maintaining a professional look.&lt;/p&gt;
+&lt;h3 id="design-components"&gt;Design Components&lt;/h3&gt;
+&lt;h4 id="core-elements"&gt;Core Elements&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Typography system with perfect vertical rhythm&lt;/li&gt;
+&lt;li&gt;Color palette with semantic variables&lt;/li&gt;
+&lt;li&gt;Spacing and sizing scales&lt;/li&gt;
+&lt;li&gt;Grid and layout systems&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id="ui-components"&gt;UI Components&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Navigation components (headers, footers, menus)&lt;/li&gt;
+&lt;li&gt;Hero sections and feature displays&lt;/li&gt;
+&lt;li&gt;Cards and content containers&lt;/li&gt;
+&lt;li&gt;Forms and input elements&lt;/li&gt;
+&lt;li&gt;Buttons and CTAs&lt;/li&gt;
+&lt;li&gt;Pricing tables&lt;/li&gt;
+&lt;li&gt;Testimonial displays&lt;/li&gt;
+&lt;li&gt;Team member profiles&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id="design-features"&gt;Design Features&lt;/h4&gt;
+&lt;h5 id="customization"&gt;Customization&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;Easy theme customization through TailwindCSS&lt;/li&gt;
+&lt;li&gt;Brand color management&lt;/li&gt;
+&lt;li&gt;Typography customization&lt;/li&gt;
+&lt;li&gt;Spacing system adjustment&lt;/li&gt;
+&lt;li&gt;Component variants&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id="accessibility"&gt;Accessibility&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;WCAG 2.1 compliant components&lt;/li&gt;
+&lt;li&gt;Proper ARIA attributes&lt;/li&gt;
+&lt;li&gt;Keyboard navigation support&lt;/li&gt;
+&lt;li&gt;High contrast mode support&lt;/li&gt;
+&lt;li&gt;Screen reader optimized&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id="responsive-design"&gt;Responsive Design&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;Mobile-first approach&lt;/li&gt;
+&lt;li&gt;Breakpoint system&lt;/li&gt;
+&lt;li&gt;Fluid typography&lt;/li&gt;
+&lt;li&gt;Adaptive layouts&lt;/li&gt;
+&lt;li&gt;Touch-friendly interactions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Our design system provides the perfect foundation for creating beautiful, accessible, and responsive websites that stand out from the crowd.&lt;/p&gt;</description></item><item><title>Book a demo with us</title><link>https://encinalabs.github.io/bookdemo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://encinalabs.github.io/bookdemo/</guid><description>&lt;p&gt;Fill out the form below and we’ll confirm your booking.&lt;/p&gt;
+&lt;section class="bg-gradient-to-b from-blue-50 via-blue-50 to-white pt-20 pb-32"&gt;
+ &lt;div class="container mx-auto px-4"&gt;
+ 
+ &lt;div class="max-w-6xl mx-auto"&gt;
+ &lt;div class="grid grid-cols-1 gap-8 text-center"&gt;
+
+ &lt;section class="book-demo"&gt;
+
+ &lt;form id="demoForm" class="space-y-6 max-w-lg mx-auto text-left"&gt;
+ &lt;div&gt;
+ &lt;label class="block text-sm font-medium text-gray-700"&gt;Name&lt;/label&gt;
+ &lt;input type="text" name="name" required class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 sm:text-sm"&gt;
+ &lt;/div&gt;
+ &lt;div&gt;
+ &lt;label class="block text-sm font-medium text-gray-700"&gt;Email&lt;/label&gt;
+ &lt;input type="email" name="email" required class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 sm:text-sm"&gt;
+ &lt;/div&gt;
+ &lt;div&gt;
+ &lt;label class="block text-sm font-medium text-gray-700"&gt;Company&lt;/label&gt;
+ &lt;input type="text" name="company" required class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 sm:text-sm"&gt;
+ &lt;/div&gt;
+ &lt;div&gt;
+ &lt;label class="block text-sm font-medium text-gray-700"&gt;Preferred Date&lt;/label&gt;
+ &lt;input type="date" name="date" required class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 sm:text-sm"&gt;
+ &lt;/div&gt;
+ &lt;div&gt;
+ &lt;label class="block text-sm font-medium text-gray-700"&gt;Message&lt;/label&gt;
+ &lt;textarea name="message" class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 sm:text-sm"&gt;&lt;/textarea&gt;
+ &lt;/div&gt;
+ &lt;div class="text-center"&gt;
+ &lt;button
+ type="submit"
+ class="block w-full inline-flex justify-center rounded-md border border-transparent bg-blue-600 py-2 px-4 text-sm font-medium text-black shadow-sm hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 text-black"
+ &gt;
+ Submit
+ &lt;/button&gt;
+ &lt;/div&gt;
+ &lt;/form&gt;
+ &lt;p id="formStatus" style="display:none;"&gt;&lt;/p&gt;</description></item><item><title>Developer Experience</title><link>https://encinalabs.github.io/features/developer-experience/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://encinalabs.github.io/features/developer-experience/</guid><description>&lt;h2 id="built-for-developers"&gt;Built for Developers&lt;/h2&gt;
+&lt;p&gt;Our theme is designed with developers in mind, providing a clean, efficient workflow that makes building websites enjoyable and productive.&lt;/p&gt;
+&lt;h3 id="development-features"&gt;Development Features&lt;/h3&gt;
+&lt;h4 id="project-structure"&gt;Project Structure&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Logical directory organization&lt;/li&gt;
+&lt;li&gt;Clear separation of concerns&lt;/li&gt;
+&lt;li&gt;Modular component architecture&lt;/li&gt;
+&lt;li&gt;Consistent naming conventions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id="development-workflow"&gt;Development Workflow&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Fast hot reload development server&lt;/li&gt;
+&lt;li&gt;Automatic asset processing&lt;/li&gt;
+&lt;li&gt;Source maps for debugging&lt;/li&gt;
+&lt;li&gt;Build process optimization&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id="component-system"&gt;Component System&lt;/h4&gt;
+&lt;h5 id="shortcodes"&gt;Shortcodes&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;Rich set of pre-built shortcodes&lt;/li&gt;
+&lt;li&gt;Easy to create custom shortcodes&lt;/li&gt;
+&lt;li&gt;Documentation for each shortcode&lt;/li&gt;
+&lt;li&gt;Example implementations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id="partials"&gt;Partials&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;Reusable partial templates&lt;/li&gt;
+&lt;li&gt;Context-aware components&lt;/li&gt;
+&lt;li&gt;Easy to extend and modify&lt;/li&gt;
+&lt;li&gt;Clear documentation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id="customization"&gt;Customization&lt;/h4&gt;
+&lt;h5 id="configuration"&gt;Configuration&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;Central configuration file&lt;/li&gt;
+&lt;li&gt;Environment variables support&lt;/li&gt;
+&lt;li&gt;Feature flags&lt;/li&gt;
+&lt;li&gt;Easy theme customization&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id="styling"&gt;Styling&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;TailwindCSS integration&lt;/li&gt;
+&lt;li&gt;PostCSS processing&lt;/li&gt;
+&lt;li&gt;Custom CSS support&lt;/li&gt;
+&lt;li&gt;Design token system&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id="documentation"&gt;Documentation&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Getting started guide&lt;/li&gt;
+&lt;li&gt;Component documentation&lt;/li&gt;
+&lt;li&gt;Configuration reference&lt;/li&gt;
+&lt;li&gt;Best practices&lt;/li&gt;
+&lt;li&gt;Troubleshooting guide&lt;/li&gt;
+&lt;li&gt;Deployment instructions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Our developer experience focuses on making it easy to build, customize, and maintain your website while following best practices and maintaining clean, efficient code.&lt;/p&gt;</description></item><item><title>Join Our Team</title><link>https://encinalabs.github.io/careers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://encinalabs.github.io/careers/</guid><description>&lt;p&gt;At Saasify, we believe in empowering our team members to do their best work. We foster an environment of innovation, collaboration, and continuous learning. Our culture is built on trust, transparency, and a shared commitment to excellence.&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;re looking for passionate individuals who want to make a difference and grow with us. If you&amp;rsquo;re excited about building the future of SaaS and working with cutting-edge technology, we&amp;rsquo;d love to hear from you.&lt;/p&gt;</description></item><item><title>License</title><link>https://encinalabs.github.io/license/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://encinalabs.github.io/license/</guid><description>&lt;h2 id="mit-license"&gt;MIT License&lt;/h2&gt;
+&lt;p&gt;Copyright (c) 2024&lt;/p&gt;
+&lt;p&gt;Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the &amp;ldquo;Software&amp;rdquo;), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:&lt;/p&gt;</description></item><item><title>Lightning-Fast Performance</title><link>https://encinalabs.github.io/features/performance/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://encinalabs.github.io/features/performance/</guid><description>&lt;h2 id="built-for-speed"&gt;Built for Speed&lt;/h2&gt;
+&lt;p&gt;Our theme is engineered from the ground up with performance in mind. By leveraging Hugo&amp;rsquo;s powerful static site generation and combining it with modern optimization techniques, we deliver websites that load instantly and run smoothly.&lt;/p&gt;
+&lt;h3 id="performance-metrics"&gt;Performance Metrics&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Build Time&lt;/strong&gt;: Less than 1 second for most sites&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Page Load Time&lt;/strong&gt;: Under 500ms first contentful paint&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Time to Interactive&lt;/strong&gt;: Under 1.5 seconds&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Google Lighthouse Score&lt;/strong&gt;: 95+ on all metrics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="optimization-features"&gt;Optimization Features&lt;/h3&gt;
+&lt;h4 id="asset-optimization"&gt;Asset Optimization&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Automatic image optimization and WebP conversion&lt;/li&gt;
+&lt;li&gt;CSS minification and purging of unused styles&lt;/li&gt;
+&lt;li&gt;JavaScript bundling and tree-shaking&lt;/li&gt;
+&lt;li&gt;Lazy loading of images and components&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id="caching-strategy"&gt;Caching Strategy&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficient browser caching with proper headers&lt;/li&gt;
+&lt;li&gt;Static asset fingerprinting&lt;/li&gt;
+&lt;li&gt;Pre-rendered HTML for instant loads&lt;/li&gt;
+&lt;li&gt;Service worker for offline capabilities&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id="cdn-integration"&gt;CDN Integration&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Built for global distribution&lt;/li&gt;
+&lt;li&gt;Edge caching ready&lt;/li&gt;
+&lt;li&gt;Automatic cache invalidation&lt;/li&gt;
+&lt;li&gt;Geographic redundancy&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Our performance-first approach ensures your website not only looks great but delivers an exceptional user experience through blazing-fast load times and smooth interactions.&lt;/p&gt;</description></item><item><title>Pricing</title><link>https://encinalabs.github.io/pricing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://encinalabs.github.io/pricing/</guid><description>&lt;section class="py-16 bg-white"&gt;
+ &lt;div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8"&gt;
+ 
+ &lt;div class="text-center"&gt;
+ &lt;h2 class="text-3xl font-bold text-gray-900"&gt;Designed for business teams like yours&lt;/h2&gt;
+ 
+ &lt;p class="mt-4 text-xl text-gray-600"&gt;Here at Flowbite we focus on markets where technology, innovation, and capital can unlock long-term value and drive economic growth.&lt;/p&gt;
+ 
+ &lt;/div&gt;
+ 
+ 
+ &lt;div class="mt-16"&gt;
+ &lt;div class="grid grid-cols-1 md:grid-cols-3 gap-8"&gt;
+ 
+ &lt;div class="w-full"&gt;
+ &lt;div class="h-full flex flex-col rounded-2xl border border-gray-200 bg-white shadow-sm hover:shadow-lg transition-shadow duration-300 relative"&gt;
+ 
+ &lt;div class="p-8 flex flex-col flex-grow"&gt;
+ &lt;div class="mb-6"&gt;
+ &lt;h3 class="text-2xl font-bold text-gray-900"&gt;Starter&lt;/h3&gt;
+ &lt;p class="mt-2 text-gray-500"&gt;Best option for personal use &amp;amp; for your next project.&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;div class="mb-8"&gt;
+ &lt;p class="flex items-baseline"&gt;
+ &lt;span class="text-5xl font-bold tracking-tight text-gray-900"&gt;$29&lt;/span&gt;
+ &lt;span class="ml-2 text-gray-500"&gt;/month&lt;/span&gt;
+ &lt;/p&gt;
+ &lt;/div&gt;
+ &lt;ul class="space-y-4 text-gray-600 flex-grow"&gt;
+ 
+ &lt;li class="flex items-start"&gt;
+ &lt;svg class="h-6 w-6 flex-shrink-0 text-blue-500" fill="currentColor" viewBox="0 0 24 24"&gt;
+ &lt;path d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/&gt;
+ &lt;/svg&gt;
+ &lt;span class="ml-3"&gt;Individual configuration&lt;/span&gt;
+ &lt;/li&gt;
+ 
+ &lt;li class="flex items-start"&gt;
+ &lt;svg class="h-6 w-6 flex-shrink-0 text-blue-500" fill="currentColor" viewBox="0 0 24 24"&gt;
+ &lt;path d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/&gt;
+ &lt;/svg&gt;
+ &lt;span class="ml-3"&gt;No setup, or hidden fees&lt;/span&gt;
+ &lt;/li&gt;
+ 
+ &lt;li class="flex items-start"&gt;
+ &lt;svg class="h-6 w-6 flex-shrink-0 text-blue-500" fill="currentColor" viewBox="0 0 24 24"&gt;
+ &lt;path d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/&gt;
+ &lt;/svg&gt;
+ &lt;span class="ml-3"&gt;Team size: 1 developer&lt;/span&gt;
+ &lt;/li&gt;
+ 
+ &lt;li class="flex items-start"&gt;
+ &lt;svg class="h-6 w-6 flex-shrink-0 text-blue-500" fill="currentColor" viewBox="0 0 24 24"&gt;
+ &lt;path d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/&gt;
+ &lt;/svg&gt;
+ &lt;span class="ml-3"&gt;Premium support: 6 months&lt;/span&gt;
+ &lt;/li&gt;
+ 
+ &lt;li class="flex items-start"&gt;
+ &lt;svg class="h-6 w-6 flex-shrink-0 text-blue-500" fill="currentColor" viewBox="0 0 24 24"&gt;
+ &lt;path d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/&gt;
+ &lt;/svg&gt;
+ &lt;span class="ml-3"&gt;Free updates: 6 months&lt;/span&gt;
+ &lt;/li&gt;
+ 
+ &lt;/ul&gt;
+ &lt;div class="mt-8"&gt;
+ &lt;a href="#" class="btn btn-primary w-full"&gt;
+ Get started
+ &lt;/a&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ 
+ &lt;div class="w-full"&gt;
+ &lt;div class="h-full flex flex-col rounded-2xl border border-gray-200 bg-white shadow-sm hover:shadow-lg transition-shadow duration-300 relative"&gt;
+ 
+ &lt;div class="absolute top-4 right-4 inline-block rounded-full bg-blue-100 px-4 py-1 text-sm font-semibold text-blue-800"&gt;
+ Popular
+ &lt;/div&gt;
+ 
+ &lt;div class="p-8 flex flex-col flex-grow"&gt;
+ &lt;div class="mb-6"&gt;
+ &lt;h3 class="text-2xl font-bold text-gray-900"&gt;Company&lt;/h3&gt;
+ &lt;p class="mt-2 text-gray-500"&gt;Relevant for multiple users, extended &amp;amp; premium support.&lt;/p&gt;</description></item><item><title>Privacy Policy</title><link>https://encinalabs.github.io/privacy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://encinalabs.github.io/privacy/</guid><description>&lt;h2 id="introduction"&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;At Saasify, we take your privacy seriously. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our service.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="information-we-collect"&gt;Information We Collect&lt;/h2&gt;
+&lt;h3 id="personal-information"&gt;Personal Information&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Name and email address&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Billing information&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Usage data and analytics&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Communication preferences&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="automatically-collected-information"&gt;Automatically Collected Information&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;IP addresses&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Browser type&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Device information&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cookies and tracking technologies&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="how-we-use-your-information"&gt;How We Use Your Information&lt;/h2&gt;
+&lt;p&gt;We use the collected information for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Service Delivery&lt;/strong&gt;&lt;br&gt;
+Providing and maintaining our service&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Updates&lt;/strong&gt;&lt;br&gt;
+Notifying you about changes to our service&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Support&lt;/strong&gt;&lt;br&gt;
+Providing customer support&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Transactions&lt;/strong&gt;&lt;br&gt;
+Processing your transactions&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Analytics&lt;/strong&gt;&lt;br&gt;
+Analyzing usage patterns to improve our service&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="data-security"&gt;Data Security&lt;/h2&gt;
+&lt;p&gt;We implement appropriate technical and organizational security measures to protect your personal information. However, no method of transmission over the Internet is 100% secure.&lt;/p&gt;</description></item><item><title>Talent Register</title><link>https://encinalabs.github.io/talent-register/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://encinalabs.github.io/talent-register/</guid><description/></item></channel></rss>
