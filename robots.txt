@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://encinalabs.com/sitemap.xml
