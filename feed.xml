@@ -3,7 +3,7 @@
     <title>EncinaLabs</title>
     <link href="https://encinalabs.com/feed.xml" rel="self" />
     <link href="https://encinalabs.com" />
-    <updated>2026-06-06T20:59:25-07:00</updated>
+    <updated>2026-06-06T21:07:57-07:00</updated>
     <author>
         <name>Pourya</name>
     </author>
@@ -20,7 +20,7 @@
         <updated>2026-06-06T20:50:19-07:00</updated>
             <summary type="html">
                 <![CDATA[
-                    Building the Future of Healthcare AI Systems Homomorphic Encryption is a cornerstone technology for the future of trustworthy AI in medicine. By enabling computation on encrypted data, we can unlock the full power of AI in healthcare while keeping patient data private by design. At&hellip;
+                    Building the Future of Healthcare AI Systems In surgical planning and guidance, pre-operative imaging modalities such as MRI, CT, and intraoperative scans are highly sensitive personal data. HE enables cloud-based AI systems to recommend optimal surgical paths without exposing raw patient data. It could also&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -28,10 +28,8 @@
                 <h2>Building the Future of Healthcare AI Systems</h2>
 <p> </p>
 <div>At <strong>Encinalabs</strong>, we are on a mission to revolutionize how providers adopt AI solutions.</div>
-<div>Our platform combines cutting-edge technology with decades of industry experience to solve complex healthcare challenges in surgical planning, diagnostics, and beyond.</div>
-<p> </p>
+<div>Our platform combines cutting-edge technology with decades of industry experience to solve complex healthcare challenges in surgical planning, diagnostics, and beyond.<br><br></div>
 <div>In medical AI, privacy is not just a legal requirement. It is a moral imperative. One technology that stands out as a game-changer is <strong>Homomorphic Encryption</strong>.</div>
-<div> </div>
 <h2>What is Homomorphic Encryption?</h2>
 <p> </p>
 <div>Homomorphic Encryption (HE) is a cryptographic technique that allows computations to be performed <strong>directly on encrypted data</strong> without ever decrypting it.</div>
@@ -44,8 +42,7 @@
 </ul>
 <div> </div>
 <div>This means sensitive data, such as a patient’s MRI scan or surgical imaging, never leaves its encrypted form, even when processed on powerful cloud servers.</div>
-<h2>Why HE Matters in Medical AI</h2>
-<p> </p>
+<h2>Why HE Matters in Medical AI<br><br></h2>
 <div>In healthcare, we often want to use machine learning models that live on secure servers to analyze patient data.</div>
 <div> </div>
 <div>The challenge:</div>
@@ -53,7 +50,6 @@
 <li>Sending unencrypted data risks exposure.</li>
 <li>Processing data entirely on local machines can limit computational power and model complexity.</li>
 </ul>
-<p> </p>
 <div>HE bridges this gap by enabling us to <strong>leverage cloud-scale AI while preserving patient privacy</strong>.</div>
 <h3>Real-world healthcare scenarios:</h3>
 <ul>
@@ -62,20 +58,15 @@
 <li><strong>Cross-Institution Research</strong>: Multiple hospitals collaborate on encrypted datasets to train robust AI models without exposing their underlying patient records.</li>
 </ul>
 <div> </div>
-<h2>How It Works in Medical Imaging</h2>
-<p> </p>
+<h2>How It Works in Medical Imaging<br><br></h2>
 <div>1. <strong>Image Preprocessing On-Device</strong></div>
-<div>A local AI model detects <strong>regions of interest</strong> in a medical scan and converts them into compact <strong>vector embeddings</strong>.</div>
-<p> </p>
+<div>A local AI model detects <strong>regions of interest</strong> in a medical scan and converts them into compact <strong>vector embeddings</strong>.<br><br></div>
 <div>2. <strong>Encryption</strong></div>
-<div>The embeddings are encrypted using an HE scheme such as <strong>Brakerski–Fan–Vercauteren (BFV)</strong> or <strong>CKKS</strong>, which support mathematical operations like dot products and cosine similarity.</div>
-<p> </p>
+<div>The embeddings are encrypted using an HE scheme such as <strong>Brakerski–Fan–Vercauteren (BFV)</strong> or <strong>CKKS</strong>, which support mathematical operations like dot products and cosine similarity.<br><br></div>
 <div>3. <strong>Encrypted Computation in the Cloud</strong></div>
-<div>The encrypted embeddings are sent to a secure server. The server performs nearest-neighbor searches or other ML inference steps without ever decrypting the data.</div>
-<p> </p>
+<div>The encrypted embeddings are sent to a secure server. The server performs nearest-neighbor searches or other ML inference steps without ever decrypting the data.<br><br></div>
 <div>4. <strong>Secure Results</strong></div>
-<div>The server returns encrypted results, which are decrypted only at the hospital’s end.</div>
-<p> </p>
+<div>The server returns encrypted results, which are decrypted only at the hospital’s end.<br><br></div>
 <div>5. <strong>Optional Federated Collaboration</strong></div>
 <div>Multiple institutions can pool encrypted embeddings to improve AI models without sharing any raw data.</div>
 <h2>Machine Learning and HE: Performance Challenges and Solutions</h2>
@@ -91,25 +82,20 @@
 <p> </p>
 <div>In surgical planning and guidance, pre-operative imaging modalities such as MRI, CT, and intraoperative scans are highly sensitive personal data.</div>
 <div><strong>HE</strong> enables cloud-based AI systems to recommend optimal surgical paths without exposing raw patient data. It could also enable real-time encrypted assistance in remote surgery, where the surgeon and AI assistant operate across continents without risking data leakage.</div>
-<div> </div>
-<h2>Looking Ahead</h2>
-<p> </p>
+<h2>Looking Ahead<br><br></h2>
 <div>The same principles behind privacy-preserving image search in consumer apps can be adapted to life-saving applications in healthcare:</div>
 <ul>
 <li>Encrypted training of AI models on multi-hospital datasets.</li>
 <li>Privacy-preserving retrieval of historical cases for clinical decision support.</li>
-<li>Encrypted large language models for medical report generation.</li>
+<li>Encrypted large language models for medical report generation.<br><br></li>
 </ul>
-<p> </p>
 <div>The road to widespread HE adoption in healthcare will require:</div>
 <ul>
 <li>Hardware acceleration optimized for HE.</li>
 <li>Regulatory frameworks that recognize HE as a compliance safeguard.</li>
 <li>Interoperability between hospital systems and HE-enabled AI platforms.</li>
 </ul>
-<div> </div>
-<h2>Final Thoughts</h2>
-<p> </p>
+<h2>Final Thoughts<br><br></h2>
 <div>Homomorphic Encryption is a cornerstone technology for the future of trustworthy AI in medicine. By enabling computation on encrypted data, we can unlock the full power of AI in healthcare while keeping patient data private by design.</div>
 <div> </div>
 <div>At Encinalabs, we believe the combination of HE and medical imaging AI will redefine how surgical and diagnostic tools are built — making them powerful, collaborative, and fundamentally private.</div>
